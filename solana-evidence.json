@@ -1,0 +1,40 @@
+{
+  "schema": "cryptolab.solana_token_evidence.acp.v1",
+  "generated_at": "2026-09-22T18:16:56.337813+00:00",
+  "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "market": {
+    "status": "available",
+    "dex": "raydium",
+    "pair_address": "BZtgQEyS6eXUXicYPHecYQ7PybqodXQMvkjUbP4R8mUU",
+    "price_usd": 1.000064,
+    "liquidity_usd": 1583999.9,
+    "volume_h24_usd": 2814243.24,
+    "market_cap_usd": 74725433649.0,
+    "fdv_usd": 9343503538.0,
+    "pair_age_hours": 18444.92
+  },
+  "rugcheck": {
+    "score": 1.0,
+    "score_normalised": 1.0,
+    "mint_authority_status": "present_reported",
+    "freeze_authority_status": "present_reported",
+    "top10_holder_pct_sum": null,
+    "risk_count": 0,
+    "risk_names": []
+  },
+  "data_quality": {
+    "status": "partial",
+    "warnings": [
+      "rugcheck.topHolders"
+    ]
+  },
+  "heuristic_flags": [
+    "mint_authority_present",
+    "freeze_authority_present"
+  ],
+  "sources": [
+    "https://api.dexscreener.com/latest/dex/tokens/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "https://api.rugcheck.xyz/v1/tokens/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/report"
+  ],
+  "disclaimer": "Evidence snapshot only; not a buy/sell recommendation."
+}

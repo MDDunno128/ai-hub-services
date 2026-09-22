@@ -1,0 +1,7 @@
+{
+  "query": "Sony WH-1000XM5",
+  "count": 20,
+  "daysToScrape": 30,
+  "itemCondition": "any",
+  "excludeBestOffer": true
+}

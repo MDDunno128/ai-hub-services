@@ -1,0 +1,133 @@
+{
+  "query": "Sony WH-1000XM5",
+  "compCount": 16,
+  "quality": {
+    "receivedCount": 20,
+    "retainedCount": 16,
+    "excludedCount": 4,
+    "excludedByReason": {
+      "invalidRecord": 0,
+      "notSold": 0,
+      "nonUsd": 0,
+      "duplicate": 0,
+      "invalidPrice": 0,
+      "lowRelevance": 0,
+      "productIdentity": 3,
+      "multiItemLot": 0,
+      "nonComparable": 1,
+      "bestOffer": 0,
+      "outlier": 0
+    },
+    "datedCompCount": 16,
+    "unknownShippingCount": 0,
+    "unspecifiedCurrencyCount": 0,
+    "bestOfferIncludedCount": 0,
+    "bundleTitleCount": 0,
+    "oldestSaleAt": "2026-09-18T00:00:00.000Z",
+    "newestSaleAt": "2026-09-22T00:00:00.000Z",
+    "sampleOnly": true,
+    "reviewRecommended": false,
+    "warnings": []
+  },
+  "price": {
+    "min": 89.99,
+    "p25": 113.11,
+    "median": 127.84,
+    "mean": 128.44,
+    "p75": 147.3,
+    "max": 160,
+    "fastSaleTarget": 124,
+    "listTarget": 147.3
+  },
+  "currency": "USD",
+  "generatedAt": "2026-09-22T18:08:07.775Z",
+  "methodology": "eBay.com sold comps; lexical model/variant and lot checks, Best Offer exclusions and 1.5xIQR filtering. Velocity describes this capped sample, not total market demand. Profit scenarios are sample percentiles, not forecasts.",
+  "caveat": "Estimates only. Condition, fees, taxes, shipping, search relevance and source accuracy vary. Upstream Actor charges are separate from this analysis event.",
+  "evidence": [
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones - Silver",
+      "url": "https://www.ebay.com/itm/407225980317?nordt=true",
+      "endedAt": "2026-09-22",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 105
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones - Black - USED",
+      "url": "https://www.ebay.com/itm/227522812682?nordt=true",
+      "endedAt": "2026-09-22",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 128.49
+    },
+    {
+      "title": "Sony WH-1000XM5 Headphones with Box",
+      "url": "https://www.ebay.com/itm/237083780300?nordt=true",
+      "endedAt": "2026-09-22",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 120
+    },
+    {
+      "title": "SONY WH1000XM5/L Headphone (BT)",
+      "url": "https://www.ebay.com/itm/267780728627?nordt=true",
+      "endedAt": "2026-09-22",
+      "condition": "Certified - Refurbished",
+      "analyzedTotalPrice": 140
+    },
+    {
+      "title": "Sony WH-1000XM5/L Wireless Industry Noise Canceling Bluetooth Headphones blue",
+      "url": "https://www.ebay.com/itm/386717538877?nordt=true",
+      "endedAt": "2026-09-22",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 127.19
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones Black",
+      "url": "https://www.ebay.com/itm/278359701353?nordt=true",
+      "endedAt": "2026-09-22",
+      "condition": "Certified - Refurbished",
+      "analyzedTotalPrice": 149.99
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones Silver",
+      "url": "https://www.ebay.com/itm/318849109603?nordt=true",
+      "endedAt": "2026-09-22",
+      "condition": "Certified - Refurbished",
+      "analyzedTotalPrice": 149.99
+    },
+    {
+      "title": "SONY WH-1000XM5/B Wireless Noise Canceling Over Ear Headphones/w CASE. READ!",
+      "url": "https://www.ebay.com/itm/389775048060?nordt=true",
+      "endedAt": "2026-09-21",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 123.95
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones (Black)",
+      "url": "https://www.ebay.com/itm/178502741243?nordt=true",
+      "endedAt": "2026-09-21",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 129.97
+    },
+    {
+      "title": "Sony WH1000XM5/L Wireless Bluetooth Over-Ear Headphones - Tan",
+      "url": "https://www.ebay.com/itm/257743486104?nordt=true",
+      "endedAt": "2026-09-21",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 146.4
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones - Silver white - Open Box",
+      "url": "https://www.ebay.com/itm/206545206933?nordt=true",
+      "endedAt": "2026-09-21",
+      "condition": "Open Box",
+      "analyzedTotalPrice": 160
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Bluetooth Over-Ear Headphones Black w/ Case & Cable",
+      "url": "https://www.ebay.com/itm/227526105853?nordt=true",
+      "endedAt": "2026-09-21",
+      "condition": "Pre-Owned",
+      "analyzedTotalPrice": 113.27
+    }
+  ],
+  "demo_note": "Historical output from the successful 2026-09-22 validation. Not a current quote or customer transaction."
+}
