@@ -6,6 +6,8 @@ For buyers evaluating an exact electronics model before purchasing stock, the us
 
 Read the [historical Sony WH-1000XM5 output](resale-output.json) and [walkthrough](RESALE-WALKTHROUGH.md). It retained 16 of 20 records on September 22, 2026, with a $127.84 median. It mixes used and refurbished condition, is a small sample, and is not a current valuation.
 
+For a spreadsheet workflow, the [free offline adapter](RESALE-INTEGRATION.md) separates the saved analysis and its evidence into two CSV tables. The sample analyzes 16 retained comps and supplies 12 evidence examples; the adapter keeps that distinction visible.
+
 ## A repeatable buying worksheet
 
 | Record | What to enter or verify |

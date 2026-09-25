@@ -10,6 +10,7 @@ Structured evidence for resale buying decisions and Solana agent workflows, plus
 ## Choose a workflow
 
 - **Evaluating resale inventory:** use the [buying-decision guide](RESALE-BUYING-WORKFLOW.md) with the existing live Apify product.
+- **Integrating saved results:** use the [free offline JSON-to-CSV adapter](RESALE-INTEGRATION.md) to split analysis summaries and listing evidence into two review tables without starting a run.
 - **Researching construction supply opportunities:** inspect the [free Chicago permit preview](CHICAGO-SUPPLIER-PREVIEW.md) and its source-linked sample. This second product is a research preview, not a paid service.
 
 ## See a real result before running
