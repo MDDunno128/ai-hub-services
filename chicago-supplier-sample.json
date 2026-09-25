@@ -1,0 +1,1498 @@
+{
+  "schema": 1,
+  "checkedAt": "2026-09-25T05:31:21.126Z",
+  "status": "read_succeeded",
+  "baseline": false,
+  "source": "https://data.cityofchicago.org/resource/ydr8-5enu.json",
+  "windowDays": 30,
+  "minimumReportedCostUsd": 100000,
+  "fetchedRows": 467,
+  "validUniqueRows": 467,
+  "invalidRows": 0,
+  "sourceLimitReached": false,
+  "newestSourceIssueDate": "2026-09-23",
+  "sourceAgeDays": 2.2,
+  "matchingSignals": 99,
+  "newlyObservedSignals": 0,
+  "changedSignals": 0,
+  "items": [
+    {
+      "permitNumber": "101080522",
+      "issueDate": "2026-09-23",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 9965000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101080522",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087262",
+      "issueDate": "2026-09-23",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1313800,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087262",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "B200479858",
+      "issueDate": "2026-09-23",
+      "permitType": "PERMIT – EXPRESS PERMIT PROGRAM",
+      "reportedCostUsd": 194000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=B200479858",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101079857",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 250000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "multi-family"
+      ],
+      "trades": [
+        "roofing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101079857",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085426",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 500000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085426",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085778",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT - NEW CONSTRUCTION",
+      "reportedCostUsd": 2359444,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [
+        "roofing",
+        "new_construction"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085778",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087407",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 150000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087407",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087823",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 500000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087823",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087876",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 450000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087876",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101088130",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 200000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101088130",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "B200509646",
+      "issueDate": "2026-09-22",
+      "permitType": "PERMIT – EXPRESS PERMIT PROGRAM",
+      "reportedCostUsd": 170000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=B200509646",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101075394",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 144880,
+      "communityArea": 66,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101075394",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101076606",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1200000,
+      "communityArea": 53,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101076606",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101080657",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 725000,
+      "communityArea": 72,
+      "segmentEvidence": [
+        "commercial",
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101080657",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101082560",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 500000,
+      "communityArea": 44,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101082560",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086869",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 825000,
+      "communityArea": 76,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086869",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087375",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1700000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087375",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087624",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 655000,
+      "communityArea": 76,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087624",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087638",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 150000,
+      "communityArea": 3,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087638",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087799",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 750000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087799",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087880",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 650000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087880",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087901",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 100000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087901",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101088174",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 700000,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101088174",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "B200511298",
+      "issueDate": "2026-09-21",
+      "permitType": "PERMIT – EXPRESS PERMIT PROGRAM",
+      "reportedCostUsd": 151016,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=B200511298",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084172",
+      "issueDate": "2026-09-18",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 375000,
+      "communityArea": 21,
+      "segmentEvidence": [
+        "mixed use",
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084172",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084481",
+      "issueDate": "2026-09-18",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1500000,
+      "communityArea": 33,
+      "segmentEvidence": [
+        "commercial",
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084481",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087293",
+      "issueDate": "2026-09-18",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 400000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "commercial",
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087293",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101081675",
+      "issueDate": "2026-09-17",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 10600000,
+      "communityArea": 39,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101081675",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101082378",
+      "issueDate": "2026-09-17",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 225000,
+      "communityArea": 21,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101082378",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085293",
+      "issueDate": "2026-09-17",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 2300000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office",
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085293",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086581",
+      "issueDate": "2026-09-17",
+      "permitType": "PERMIT - NEW CONSTRUCTION",
+      "reportedCostUsd": 350000,
+      "communityArea": 7,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "new_construction"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086581",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101076017",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - WRECKING/DEMOLITION",
+      "reportedCostUsd": 210000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "mixed use"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101076017",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101076175",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - WRECKING/DEMOLITION",
+      "reportedCostUsd": 310000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "mixed use"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101076175",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101076176",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - WRECKING/DEMOLITION",
+      "reportedCostUsd": 310000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101076176",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101078161",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - NEW CONSTRUCTION",
+      "reportedCostUsd": 28795046,
+      "communityArea": 27,
+      "segmentEvidence": [
+        "commercial",
+        "mixed-use",
+        "office"
+      ],
+      "trades": [
+        "roofing",
+        "new_construction"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101078161",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101081716",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 7500000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101081716",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084367",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 388960,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084367",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084518",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 151112046,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084518",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086716",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 150000,
+      "communityArea": 69,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086716",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086725",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 400000,
+      "communityArea": 7,
+      "segmentEvidence": [
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086725",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087062",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 200000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087062",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087468",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 575000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "restaurant"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087468",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101088046",
+      "issueDate": "2026-09-16",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1920600,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101088046",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084132",
+      "issueDate": "2026-09-15",
+      "permitType": "PERMIT - NEW CONSTRUCTION",
+      "reportedCostUsd": 1500000,
+      "communityArea": 4,
+      "segmentEvidence": [
+        "commercial",
+        "mixed use"
+      ],
+      "trades": [
+        "roofing",
+        "new_construction"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084132",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085796",
+      "issueDate": "2026-09-15",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 468345,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "commercial",
+        "mixed-use",
+        "office"
+      ],
+      "trades": [
+        "roofing",
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085796",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087323",
+      "issueDate": "2026-09-15",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1005398,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087323",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087669",
+      "issueDate": "2026-09-15",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 150000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087669",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087874",
+      "issueDate": "2026-09-15",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 350000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "commercial",
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087874",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "B200511506",
+      "issueDate": "2026-09-15",
+      "permitType": "PERMIT – EXPRESS PERMIT PROGRAM",
+      "reportedCostUsd": 550000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=B200511506",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101068861",
+      "issueDate": "2026-09-14",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1500000,
+      "communityArea": 12,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101068861",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083876",
+      "issueDate": "2026-09-14",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 495000,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "mixed use",
+        "restaurant",
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083876",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086173",
+      "issueDate": "2026-09-14",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 800000,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086173",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101088292",
+      "issueDate": "2026-09-14",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 200000,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101088292",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "B101086200",
+      "issueDate": "2026-09-14",
+      "permitType": "PERMIT - WRECKING/DEMOLITION",
+      "reportedCostUsd": 155000,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=B101086200",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085263",
+      "issueDate": "2026-09-11",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 180000,
+      "communityArea": 43,
+      "segmentEvidence": [
+        "multi-family"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085263",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086555",
+      "issueDate": "2026-09-11",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 311565,
+      "communityArea": 4,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086555",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087205",
+      "issueDate": "2026-09-11",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 710000,
+      "communityArea": 22,
+      "segmentEvidence": [
+        "commercial",
+        "mixed use"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087205",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087339",
+      "issueDate": "2026-09-11",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 600000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087339",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087403",
+      "issueDate": "2026-09-11",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1362000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087403",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087423",
+      "issueDate": "2026-09-11",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 450000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087423",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101061581",
+      "issueDate": "2026-09-10",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 3000000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101061581",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101074777",
+      "issueDate": "2026-09-10",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1500000,
+      "communityArea": 23,
+      "segmentEvidence": [
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101074777",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101071485",
+      "issueDate": "2026-09-09",
+      "permitType": "PERMIT - NEW CONSTRUCTION",
+      "reportedCostUsd": 1275000,
+      "communityArea": 5,
+      "segmentEvidence": [
+        "mixed use",
+        "retail"
+      ],
+      "trades": [
+        "new_construction"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101071485",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101080613",
+      "issueDate": "2026-09-09",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 120000,
+      "communityArea": 25,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101080613",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101081546",
+      "issueDate": "2026-09-09",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 150000,
+      "communityArea": 59,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101081546",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087534",
+      "issueDate": "2026-09-09",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 105000,
+      "communityArea": 4,
+      "segmentEvidence": [
+        "mixed use"
+      ],
+      "trades": [
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087534",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083139",
+      "issueDate": "2026-09-08",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 550000,
+      "communityArea": 76,
+      "segmentEvidence": [
+        "commercial",
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083139",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083502",
+      "issueDate": "2026-09-08",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 400000,
+      "communityArea": 30,
+      "segmentEvidence": [
+        "warehouse"
+      ],
+      "trades": [
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083502",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101078712",
+      "issueDate": "2026-09-04",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 2250000,
+      "communityArea": 21,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101078712",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101081120",
+      "issueDate": "2026-09-04",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 150000,
+      "communityArea": 21,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101081120",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083288",
+      "issueDate": "2026-09-04",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 118000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083288",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084736",
+      "issueDate": "2026-09-04",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 325000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084736",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086762",
+      "issueDate": "2026-09-04",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 350000,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086762",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087431",
+      "issueDate": "2026-09-04",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1750000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087431",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101082620",
+      "issueDate": "2026-09-03",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 500000,
+      "communityArea": 33,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101082620",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083329",
+      "issueDate": "2026-09-03",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 100000,
+      "communityArea": 3,
+      "segmentEvidence": [
+        "restaurant",
+        "retail"
+      ],
+      "trades": [
+        "electrical"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083329",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083783",
+      "issueDate": "2026-09-03",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 490000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083783",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086218",
+      "issueDate": "2026-09-03",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 360000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086218",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086219",
+      "issueDate": "2026-09-03",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 305000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086219",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087389",
+      "issueDate": "2026-09-03",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 120000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087389",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101081426",
+      "issueDate": "2026-09-02",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 150000,
+      "communityArea": 31,
+      "segmentEvidence": [
+        "mixed use",
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101081426",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083681",
+      "issueDate": "2026-09-02",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 800000,
+      "communityArea": 1,
+      "segmentEvidence": [
+        "industrial",
+        "warehouse"
+      ],
+      "trades": [
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083681",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085970",
+      "issueDate": "2026-09-02",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 800000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085970",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086250",
+      "issueDate": "2026-09-02",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 450000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086250",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084811",
+      "issueDate": "2026-09-01",
+      "permitType": "PERMIT - NEW CONSTRUCTION",
+      "reportedCostUsd": 2686515,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [
+        "roofing",
+        "new_construction"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084811",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101078711",
+      "issueDate": "2026-08-31",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 250000,
+      "communityArea": 22,
+      "segmentEvidence": [
+        "mixed use"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101078711",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101080455",
+      "issueDate": "2026-08-31",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 200000,
+      "communityArea": 5,
+      "segmentEvidence": [
+        "restaurant"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101080455",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101084666",
+      "issueDate": "2026-08-31",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 200000,
+      "communityArea": 8,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101084666",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085298",
+      "issueDate": "2026-08-31",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 455350,
+      "communityArea": 33,
+      "segmentEvidence": [
+        "commercial"
+      ],
+      "trades": [
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085298",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086495",
+      "issueDate": "2026-08-31",
+      "permitType": "PERMIT - NEW CONSTRUCTION",
+      "reportedCostUsd": 250000,
+      "communityArea": 7,
+      "segmentEvidence": [
+        "commercial",
+        "retail"
+      ],
+      "trades": [
+        "new_construction"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086495",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086964",
+      "issueDate": "2026-08-31",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 700000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086964",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087061",
+      "issueDate": "2026-08-31",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1300000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "mixed use"
+      ],
+      "trades": [
+        "hvac",
+        "electrical",
+        "plumbing"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087061",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101083271",
+      "issueDate": "2026-08-28",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 1400000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101083271",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101085625",
+      "issueDate": "2026-08-28",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 180000,
+      "communityArea": 42,
+      "segmentEvidence": [
+        "retail"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101085625",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086055",
+      "issueDate": "2026-08-28",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 130000,
+      "communityArea": 22,
+      "segmentEvidence": [
+        "hotel",
+        "mixed use",
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086055",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101086996",
+      "issueDate": "2026-08-28",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 100000,
+      "communityArea": 32,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "plumbing",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086996",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087114",
+      "issueDate": "2026-08-28",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 325000,
+      "communityArea": 28,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [
+        "new_construction",
+        "demolition"
+      ],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087114",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101087555",
+      "issueDate": "2026-08-28",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 100000,
+      "communityArea": 24,
+      "segmentEvidence": [
+        "office"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087555",
+      "observation": "unchanged"
+    },
+    {
+      "permitNumber": "101080908",
+      "issueDate": "2026-08-27",
+      "permitType": "PERMIT - RENOVATION/ALTERATION",
+      "reportedCostUsd": 100000,
+      "communityArea": 45,
+      "segmentEvidence": [
+        "multi family"
+      ],
+      "trades": [],
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101080908",
+      "observation": "unchanged"
+    }
+  ],
+  "caveats": [
+    "Research preview, not a paid or deployed service. No customers or open bids are established by these records.",
+    "Commercial/multifamily scope is inferred from exact keywords; classifications require human source review.",
+    "Issued permits may already have contractors. These signals are for supplier research, not claims of unawarded work.",
+    "Newly observed means absent from our prior snapshot, not necessarily newly issued. First scan is baseline only.",
+    "Changed compares retrieved permit fields and scope within the rolling 30-day issue window; older changes are missed.",
+    "Missing records are not closures. Source and row limits can omit projects. Costs are reported values, not purchasing budgets.",
+    "No contact details, street addresses, owner names or raw descriptions are included. Use source links for verification."
+  ]
+}

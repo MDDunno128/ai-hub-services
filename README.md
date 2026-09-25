@@ -1,11 +1,16 @@
 # AI-Hub services
 
-Structured evidence for resale research and Solana agent workflows.
+Structured evidence for resale buying decisions and Solana agent workflows, plus a free construction-supplier research preview.
 
 | Service | What you receive | Price | Where to start |
 | --- | --- | --- | --- |
 | eBay Sold Comps — Resale Comp Intelligence | Price percentiles, comparable-listing evidence, exclusion counts and optional profit scenarios | $0.25 per successful analysis, plus separate source fees up to $0.10 | [Open on Apify](https://apify.com/mddunno128/resale-comp-intelligence) |
 | Solana Token Risk Evidence | Timestamped market and provider-reported risk evidence, explicit missing-data warnings and source URLs | 0.02 USDC per ACP job | Search **Solana Token Risk Evidence** in the ACP marketplace; provider **CryptoLab Solana Evidence** |
+
+## Choose a workflow
+
+- **Evaluating resale inventory:** use the [buying-decision guide](RESALE-BUYING-WORKFLOW.md) with the existing live Apify product.
+- **Researching construction supply opportunities:** inspect the [free Chicago permit preview](CHICAGO-SUPPLIER-PREVIEW.md) and its source-linked sample. This second product is a research preview, not a paid service.
 
 ## See a real result before running
 
