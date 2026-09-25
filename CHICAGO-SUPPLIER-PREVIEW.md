@@ -30,6 +30,10 @@ Checked **2026-09-25T05:31:21.126Z** against the [City of Chicago Building Permi
 
 Reported project costs are not supplier purchasing budgets. Trade matches are simple rules, not proof of remaining work. Source links allow independent verification.
 
+### What a manual source check found
+
+Our [ten-permit scope audit](CHICAGO-SUPPLIER-AUDIT.md) found why manual review matters: a hotel keyword referred to a small food-counter conversion inside an existing building, a warehouse record authorized foundation-only work, and an empty trade list omitted parking and fencing scope. Roof-deck references also do not establish separate roofing opportunities. This deliberately varied sample is not an overall accuracy score or proof of demand.
+
 ## How to evaluate it
 
 1. Pick a scope you serve, such as office renovations, and review several official source records.
