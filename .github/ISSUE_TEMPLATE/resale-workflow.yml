@@ -1,0 +1,56 @@
+name: Resale workflow feedback
+description: Describe a buying or export workflow using the free saved example.
+title: "[Resale workflow] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Start with the [free saved example](https://github.com/MDDunno128/ai-hub-services/blob/main/RESALE-WALKTHROUGH.md) or [offline CSV guide](https://github.com/MDDunno128/ai-hub-services/blob/main/RESALE-INTEGRATION.md). No paid run is needed to give feedback.
+        
+        This issue is public. Use fictional or public examples only. Omit credentials, private inventory, customer records, personal contact details, account screenshots and billing information.
+        
+        The example is historical, mixes conditions and exposes 12 of 16 retained comps. It is not a current valuation. Feedback does not place an order or start a run.
+  - type: textarea
+    id: decision
+    attributes:
+      label: What decision or task are you trying to complete?
+      description: Describe the workflow and the result you need, using a public or fictional example.
+      placeholder: "Example: Compare one exact model and condition, then review source links in a spreadsheet before deciding whether to buy."
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: How often would you use this workflow?
+      options:
+        - One-time research
+        - A recurring workflow
+        - Still exploring
+    validations:
+      required: false
+  - type: dropdown
+    id: example
+    attributes:
+      label: Which free material have you reviewed?
+      options:
+        - Saved output or walkthrough
+        - Offline CSV examples or adapter
+        - Both
+        - Neither yet
+    validations:
+      required: false
+  - type: textarea
+    id: missing
+    attributes:
+      label: What is missing or unclear?
+      description: A field, table layout, condition check, source-evidence gap or example row is enough. Use made-up values if your data is private.
+      placeholder: "Example: I need condition and included accessories recorded separately so I can leave uncertain matches unresolved."
+    validations:
+      required: false
+  - type: checkboxes
+    id: public-content
+    attributes:
+      label: Public content check
+      options:
+        - label: I have removed private information and understand that this issue will be public.
+          required: true
