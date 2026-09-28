@@ -34,6 +34,16 @@ Reported project costs are not supplier purchasing budgets. Trade matches are si
 
 Our [ten-permit scope audit](CHICAGO-SUPPLIER-AUDIT.md) found why manual review matters: a hotel keyword referred to a small food-counter conversion inside an existing building, a warehouse record authorized foundation-only work, and an empty trade list omitted parking and fencing scope. Roof-deck references also do not establish separate roofing opportunities. This deliberately varied sample is not an overall accuracy score or proof of demand.
 
+## From source matches to a review queue
+
+A later check at **2026-09-28T00:05:43.092Z** found seven newly observed matches. We reviewed those seven official scopes individually at **2026-09-28T01:02:40.631Z** and prepared a [sanitized review queue](chicago-supplier-reviewed-example.json). This is a separate worked example; the original September 25 sample above retains its original date and records.
+
+The example separates existing-building context from proposed use, records explicit work/material evidence and scope boundaries, and leaves procurement status, quantities, supplier budgets and the buyer's pursuit decision unknown. It is an AI-assisted source review, not an independent accuracy assessment.
+
+For example, one warehouse keyword belongs to space being converted to offices; several office alterations explicitly list doors, hardware, partitions or lighting. A daycare fit-out and a medical-to-assembly conversion should not become whole-building or medical-equipment leads. Three empty trade lists remain empty because specific trade packages were not enumerated.
+
+Use this structure to decide what still needs checking, rather than treating a keyword as a qualified prospect. Match a work family you actually serve, verify scope and procurement timing, then record your own pursuit decision. No open bid, supplier selection, purchasing commitment or buyer demand is established. Names, addresses and raw descriptions are omitted.
+
 ## How to evaluate it
 
 1. Pick a scope you serve, such as office renovations, and review several official source records.

@@ -1,0 +1,196 @@
+{
+  "schema": 1,
+  "kind": "source_review_example",
+  "source": "https://data.cityofchicago.org/resource/ydr8-5enu.json",
+  "fullFeedCheckedAt": "2026-09-28T00:05:43.092Z",
+  "scopeReviewedAt": "2026-09-28T01:02:40.631Z",
+  "reviewMethod": "AI-assisted, case-by-case review of seven selected official permit descriptions; not an independent accuracy assessment.",
+  "sampling": "All seven newly observed matches from the September 28 comparison; not a random or market-wide sample.",
+  "fieldGuide": {
+    "scopeEvidence": "Paraphrased work/material families explicitly described in the source; not quantities or available contracts.",
+    "originalTradeKeywordMatches": "Original simple-rule labels retained for comparison, including empty arrays.",
+    "proposedUse": "Use described for the affected space, separated from the existing building context.",
+    "pursuitDecision": "Left null for a buyer's own decision; no automated prospect qualification."
+  },
+  "limitations": [
+    "Research preview only; no paid permit service or open-bid evidence.",
+    "Newly observed means absent from the prior local snapshot, not a new customer or newly available purchasing opportunity.",
+    "Issued permits may already have contractors or suppliers. Actual procurement status, quantities and supplier budgets remain unknown.",
+    "No raw descriptions, names, addresses, contact information or tenant identities retained.",
+    "No live commercial service, paid delivery, demand or settlement is verified."
+  ],
+  "items": [
+    {
+      "permitNumber": "101075396",
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101075396",
+      "proposedUse": "daycare",
+      "scopeStage": "interior build-out",
+      "existingContext": "mixed-use building",
+      "scopeEvidence": [
+        "ground-floor daycare fit-out",
+        "bicycle spaces",
+        "drop-off parking"
+      ],
+      "scopeBoundaries": [],
+      "originalTradeKeywordMatches": [],
+      "reviewNote": "The mixed-use keyword describes the existing building; scope is limited to a ground-floor daycare. Specific materials and mechanical/electrical/plumbing packages are not enumerated.",
+      "procurementStatus": "unknown",
+      "quantities": null,
+      "supplierBudgetUsd": null,
+      "pursuitDecision": null
+    },
+    {
+      "permitNumber": "101079199",
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101079199",
+      "proposedUse": "religious assembly",
+      "scopeStage": "occupancy conversion, interior alteration and one-story addition",
+      "existingContext": "existing commercial building / former medical use",
+      "scopeEvidence": [
+        "interior alterations",
+        "one-story addition",
+        "fixed seating"
+      ],
+      "scopeBoundaries": [],
+      "originalTradeKeywordMatches": [],
+      "reviewNote": "Commercial is existing-building context. The proposed use is religious assembly; do not treat this as medical fit-out demand.",
+      "procurementStatus": "unknown",
+      "quantities": null,
+      "supplierBudgetUsd": null,
+      "pursuitDecision": null
+    },
+    {
+      "permitNumber": "101086217",
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086217",
+      "proposedUse": "office",
+      "scopeStage": "interior alteration",
+      "existingContext": "existing office",
+      "scopeEvidence": [
+        "non-structural partitions",
+        "doors and hardware",
+        "finishes",
+        "lighting",
+        "mechanical work",
+        "electrical work",
+        "plumbing work",
+        "selective demolition"
+      ],
+      "scopeBoundaries": [
+        "structural work excluded",
+        "no change in use"
+      ],
+      "originalTradeKeywordMatches": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "demolition"
+      ],
+      "reviewNote": "Several material/work families are explicit, but quantities, specifications and unawarded packages are unknown.",
+      "procurementStatus": "unknown",
+      "quantities": null,
+      "supplierBudgetUsd": null,
+      "pursuitDecision": null
+    },
+    {
+      "permitNumber": "101086545",
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086545",
+      "proposedUse": "office",
+      "scopeStage": "interior conversion",
+      "existingContext": "existing office and warehouse space",
+      "scopeEvidence": [
+        "first-floor interior build-out"
+      ],
+      "scopeBoundaries": [],
+      "originalTradeKeywordMatches": [],
+      "reviewNote": "Warehouse refers to existing space being converted to offices. A warehouse-equipment prospect would be unsupported. Specific trade/material packages are not enumerated.",
+      "procurementStatus": "unknown",
+      "quantities": null,
+      "supplierBudgetUsd": null,
+      "pursuitDecision": null
+    },
+    {
+      "permitNumber": "101086901",
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101086901",
+      "proposedUse": "office",
+      "scopeStage": "interior alteration",
+      "existingContext": "existing office",
+      "scopeEvidence": [
+        "partitions",
+        "doors and hardware",
+        "lighting",
+        "ceilings",
+        "mechanical work",
+        "electrical work",
+        "plumbing work",
+        "demolition"
+      ],
+      "scopeBoundaries": [
+        "structural work excluded",
+        "no change in use"
+      ],
+      "originalTradeKeywordMatches": [
+        "hvac",
+        "electrical",
+        "plumbing",
+        "demolition"
+      ],
+      "reviewNote": "Interior scope is explicit; named occupants were omitted. No quantity, supplier selection or remaining purchasing window is established.",
+      "procurementStatus": "unknown",
+      "quantities": null,
+      "supplierBudgetUsd": null,
+      "pursuitDecision": null
+    },
+    {
+      "permitNumber": "101087230",
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=101087230",
+      "proposedUse": "office",
+      "scopeStage": "interior alteration",
+      "existingContext": "existing office",
+      "scopeEvidence": [
+        "partitions",
+        "doors and hardware",
+        "lighting",
+        "mechanical work",
+        "electrical work",
+        "demolition"
+      ],
+      "scopeBoundaries": [
+        "structural work excluded",
+        "no change in use"
+      ],
+      "originalTradeKeywordMatches": [
+        "hvac",
+        "electrical",
+        "demolition"
+      ],
+      "reviewNote": "Mechanical and electrical work are explicit; plumbing is not enumerated. Do not expand this to a complete MEP package.",
+      "procurementStatus": "unknown",
+      "quantities": null,
+      "supplierBudgetUsd": null,
+      "pursuitDecision": null
+    },
+    {
+      "permitNumber": "B200509987",
+      "sourceRecordUrl": "https://data.cityofchicago.org/resource/ydr8-5enu.json?permit_=B200509987",
+      "proposedUse": "office and lobby",
+      "scopeStage": "nonstructural interior alteration",
+      "existingContext": "existing office and lobby",
+      "scopeEvidence": [
+        "office/lobby interior alteration",
+        "electrical work",
+        "mechanical work"
+      ],
+      "scopeBoundaries": [
+        "nonstructural scope"
+      ],
+      "originalTradeKeywordMatches": [
+        "hvac",
+        "electrical"
+      ],
+      "reviewNote": "Office/lobby alterations are supported; specific products, quantities and plumbing scope are unspecified.",
+      "procurementStatus": "unknown",
+      "quantities": null,
+      "supplierBudgetUsd": null,
+      "pursuitDecision": null
+    }
+  ]
+}
