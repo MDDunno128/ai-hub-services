@@ -50,6 +50,8 @@ The mini PC runs the ACP provider and local operations. Resale analyses execute 
 
 ## Feedback
 
+For a buying or export workflow, [share resale workflow feedback](https://github.com/MDDunno128/ai-hub-services/issues/new?template=resale-workflow.yml) after reviewing the free example. No paid run is required; use public or fictional data because issues are public.
+
 Open an issue in this repository with the product, expected behavior, sanitized input and error. Do not include API tokens, private wallet information, account screenshots or personal billing details. For resale support you can also use the product's Apify Issues tab.
 
 Built by [AI-Hub / MDDunno128](https://github.com/MDDunno128).
